@@ -8,7 +8,7 @@ As a result I like to remain anonymous, at least for now :hushed: .
 ## What I do
 I am mostly spending time on a number of private projects that I cannot share. The
 [Beautiful Portfolio Tools](https://github.com/ProbStub/BeautifulPortfolioTools)
-are a project that I am sharing in an effort to refactor some earlier work in R. Below are some activity
+is a project that I am sharing in an effort to refactor some earlier work in R. Below are some activity
 statistics for that project.
 
 ![GitHub commits since latest release (by date including pre-releases)](https://img.shields.io/github/commits-since/probstub/BeautifulPortfolioTools/latest?include_prereleases)
