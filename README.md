@@ -15,7 +15,7 @@ statistics for that project.
 ![GitHub branch checks state](https://img.shields.io/github/checks-status/probstub/BeautifulPortfolioTools/master)
 ![Codacy grade](https://img.shields.io/codacy/grade/2ec8c8848ce4409ab0bdf181a4b2d9d3)
 ## My stack includes
-
+<p>
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/apache/apache-plain.svg">
 <img height="30" src="https://raw.githubusercontent.com/cypress-io/cypress-icons/e61b554695b28267a1387a839f816c73e7a7e95e/src/logo/cypress-io-logo-round.svg">
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/circleci/circleci-plain.svg">
@@ -42,8 +42,12 @@ statistics for that project.
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-plain.svg">
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/r/r-plain.svg">
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg">
-<img height="30" src="https://cdn.worldvectorlogo.com/logos/pycharm-1.svg"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/apple/apple-original.svg"><img height="30" src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg"><img height="30" src="https://cdn.worldvectorlogo.com/logos/hadoop.svg"><img height="30" src="https://cdn.worldvectorlogo.com/logos/ethereum-1.svg">
-
+<img height="30" src="https://cdn.worldvectorlogo.com/logos/pycharm-1.svg">
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/apple/apple-original.svg">
+<img height="30" src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg">
+<img height="30" src="https://cdn.worldvectorlogo.com/logos/hadoop.svg">
+<img height="30" src="https://cdn.worldvectorlogo.com/logos/ethereum-1.svg">
+</p>
 
 
 
