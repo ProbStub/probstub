@@ -42,20 +42,12 @@ statistics for that project.
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-plain.svg">
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/r/r-plain.svg">
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg">
-<img height="30" src="https://cdn.worldvectorlogo.com/logos/pycharm-1.svg">
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/apple/apple-original.svg">
-<img height="30" src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg">
-<img height="30" src="https://cdn.worldvectorlogo.com/logos/hadoop.svg">
-<img height="30" src="https://cdn.worldvectorlogo.com/logos/ethereum-1.svg">
-
-<img height="30" src="">
-<img height="30" src="">
+<img height="30" src="https://cdn.worldvectorlogo.com/logos/pycharm-1.svg"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/apple/apple-original.svg"><img height="30" src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg"><img height="30" src="https://cdn.worldvectorlogo.com/logos/hadoop.svg"><img height="30" src="https://cdn.worldvectorlogo.com/logos/ethereum-1.svg">
 
 
 
 
-## Credits
 
-1. Image by [Sahil Bhagat](https://dribbble.com/sahil_design)
-2. [Emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) by @ikatyang
-3. Badges from shields.io
+
+ Images by [Sahil Bhagat](https://dribbble.com/sahil_design), [devicons](https://github.com/devicons/devicon) 
+ and [worldvectorlogo](https://worldvectorlogo.com)  
