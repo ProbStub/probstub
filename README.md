@@ -49,13 +49,13 @@ statistics for that project.
 <img height="30" src="https://cdn.worldvectorlogo.com/logos/ethereum-1.svg">
 <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg">
 <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg">
-<img height="30" src="https://istio.io/latest/img/istio-bluelogo-whitebackground-unframed.svg">
-<img height="30" src="https://github.com/rabbitmq/rabbitmq-website/blob/live/site/img/rabbitmq_logo_strap.png">
+<img height="30" src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg">
+<img height="30" src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg">
 </p>
 
 
 
 
 
- Images by [Sahil Bhagat](https://dribbble.com/sahil_design), [devicons](https://github.com/devicons/devicon) 
+ Images by [Sahil Bhagat](https://dribbble.com/sahil_design), [vectorlogozone](https://www.vectorlogo.zone/logos/istioio/index.html), [devicons](https://github.com/devicons/devicon) 
  and [worldvectorlogo](https://worldvectorlogo.com)  
