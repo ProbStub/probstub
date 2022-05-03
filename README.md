@@ -47,6 +47,10 @@ statistics for that project.
 <img height="30" src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg">
 <img height="30" src="https://cdn.worldvectorlogo.com/logos/hadoop.svg">
 <img height="30" src="https://cdn.worldvectorlogo.com/logos/ethereum-1.svg">
+<img height="30" src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg">
+<img height="30" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg">
+<img height="30" src="https://istio.io/latest/img/istio-bluelogo-whitebackground-unframed.svg">
+<img height="30" src="https://github.com/rabbitmq/rabbitmq-website/blob/live/site/img/rabbitmq_logo_30x30.png">
 </p>
 
 
