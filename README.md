@@ -7,13 +7,14 @@ As a result I like to remain anonymous, at least for now :hushed: .
 
 ## What I do
 I am mostly spending time on a number of private projects that I cannot share. The
-[Beautiful Portfolio Tools](https://github.com/ProbStub/BeautifulPortfolioTools)
-is a project that I am sharing in an effort to refactor some earlier work in R. Below are some activity
-statistics for that project.
+[Beautiful Portfolio Tools](https://github.com/ProbStub/BeautifulPortfolioTools) - much neglected recently - and more recently [NodeKeeper](https://github.com/ProbStub/NodeKeeper)
+are projects that I am sharing. Both projects are shared in an effort to refactor some earlier work in R and to share automation tooling with web3 engineers. Below are some activity statistics for the projects.
 
-![GitHub commits since latest release (by date including pre-releases)](https://img.shields.io/github/commits-since/probstub/BeautifulPortfolioTools/latest?include_prereleases)
-![GitHub branch checks state](https://img.shields.io/github/checks-status/probstub/BeautifulPortfolioTools/master)
-![Codacy grade](https://img.shields.io/codacy/grade/2ec8c8848ce4409ab0bdf181a4b2d9d3)
+| Project | Commits | Status | Quality |
+| --- | --- | --- | --- |
+| [Beautiful Portfolio Tools](https://github.com/ProbStub/BeautifulPortfolioTools) | ![GitHub commits since latest release (by date including pre-releases)](https://img.shields.io/github/commits-since/probstub/BeautifulPortfolioTools/latest?include_prereleases) | ![GitHub branch checks state](https://img.shields.io/github/checks-status/probstub/BeautifulPortfolioTools/master) | ![Codacy grade](https://img.shields.io/codacy/grade/2ec8c8848ce4409ab0bdf181a4b2d9d3) |
+| [NodeKeeper](https://github.com/ProbStub/NodeKeeper) | ![GitHub commits since latest release (by date) for a branch](https://img.shields.io/github/commits-since/Probstub/NodeKeeper/0.0.1/master) | ![GitHub branch checks state](https://img.shields.io/github/checks-status/probstub/NodeKeeper/master) | ![Codacy grade](https://img.shields.io/codacy/grade/23890bea152e49b296f411d83a85619c) |
+
 ## My stack includes
 <p>
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/apache/apache-plain.svg">
